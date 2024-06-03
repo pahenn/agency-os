@@ -53,7 +53,8 @@
 	},
 	"dependencies": {
 		"@nuxt/image": "1.1.0",
-		"nuxt-og-image": "3.0.0-rc.23"
+		"nuxt-og-image": "3.0.0-rc.23",
+		"nuxt-umami": "^2.6.2"
 	},
 	"packageManager": "pnpm@8.6.0",
 	"engines": {
