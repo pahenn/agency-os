@@ -1,7 +1,10 @@
 import { theme } from '~/theme';
 
 export default defineAppConfig({
-	umami: {},
+	umami: {
+		version: 2,
+		ignoreLocalhost: true,
+	},
 	theme,
 	ui: {
 		strategy: 'override',
