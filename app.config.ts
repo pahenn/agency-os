@@ -1,6 +1,7 @@
 import { theme } from '~/theme';
 
 export default defineAppConfig({
+	umami: {},
 	theme,
 	ui: {
 		strategy: 'override',
